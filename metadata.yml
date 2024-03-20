@@ -1,5 +1,5 @@
 homepage: "https://qooqie.com"
 documentation: "https://support.qooqie.com/books/implementatie-gebruiker/page/4-het-qooqie-script-plaatsen"
 versions:
-  - sha: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  - sha: 70f05b36c868ec88b90b35d5c8e31d03eb3cc749
     changeNotes: Initial release.
